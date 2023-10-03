@@ -1,6 +1,8 @@
 # Kafka
+Курсы по кафке:  
+https://www.learningjournal.guru/courses/kafka/kafka-foundation-training
 
-Для разворачивания кластера в Docker  
+Для разворачивания кластера в Docker:  
 
 **Confluent**  
 ```bash
